@@ -1,4 +1,1 @@
-www.google-account.jp
-git add CNAME
-git commit -m "Add custom domain"
-git push origin main
+google-account.jp
